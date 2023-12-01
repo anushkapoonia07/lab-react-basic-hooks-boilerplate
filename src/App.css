@@ -1,0 +1,19 @@
+.app {
+    text-align: center;
+}
+.app.black {
+    background-color: black;
+    color: aliceblue;
+}
+.app.grey {
+    background-color: grey;
+}
+.ToggleButton {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.Container {
+    background-color: white;
+    margin-bottom: 50px;
+}
